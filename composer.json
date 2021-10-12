@@ -1,0 +1,6 @@
+{
+    "name": "symfony/docker-compose-meta",
+    "type": "metapackage",
+    "license": "MIT",
+    "description": "A meta package for Symfony projects using Docker Compose"
+}
